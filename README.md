@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Opa, seja bem vindo ao meu perfil!
 
  <div>
    <a href="https://github.com/RodrigoLucasDev">
